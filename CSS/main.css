@@ -1,0 +1,14 @@
+.colorNav{
+    background-color: #44B8B8;
+}
+.navbar {
+  display: flex;
+}
+.fotPer{
+  height: 150px;
+  border-radius: 50%;
+}
+.titulo{
+  color: white;
+  text-align: center;
+}
