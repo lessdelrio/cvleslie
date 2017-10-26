@@ -6,7 +6,9 @@
 .titulo{
   margin-top: 2%;
   margin-bottom: 2%;
-  font-size: 80px;
+  font-size: 79px!important;
+  text-shadow: 3px 3px 5px;
+  white-space: nowrap;
 }
 .centrar{
   text-align: center;
@@ -29,4 +31,7 @@
   width: 50%;
   vertical-align: top;
   font-size: 1rem;
+}
+.justIzq {
+  text-align: justify;
 }
